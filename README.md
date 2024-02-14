@@ -1,6 +1,6 @@
-### Hi there 👋, I am Md Oliul Islam
-# I am a Web Developer
-![I am a Web Developer](https://i.ibb.co/6YMvRxN/IMG-20231219-130642.png)
+# Hi there 👋, I am Md Oliul Islam
+## I am a Web Developer
+![I am a Web Developer](https://avatars.githubusercontent.com/u/133864835?s=400&u=d43b09ba2958d5ac7d331a327f3f637ff76ce73c&v=4)
 
 I am  front End Web Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible . I love to solve real world problems. I am strategic goal oriented and always work with an end goal in mind.
 
@@ -25,6 +25,4 @@ Skills:  REACT / JS / HTML / CSS / MongoDB / Firebase / Node.Js /
 ![GitHub metrics](https://metrics.lecoq.io/oliul12345)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=oliul12345)  
-
-
 
